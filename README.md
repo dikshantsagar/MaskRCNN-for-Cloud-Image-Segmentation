@@ -1,5 +1,6 @@
 # MaskRCNN-for-Cloud-Image-Segmentation
-classifying cloud shapes from NASA Worldview Dataset and creating ROI's and Masks
+## classifying cloud shapes from NASA Worldview Dataset and creating ROI's and Masks
+### Dice Coeff achieved - <b>0.5876</b>
 
 
 <img src="https://raw.githubusercontent.com/dikshantsagar/MaskRCNN-for-Cloud-Image-Segmentation/master/Screenshot 2019-11-30 at 6.03.16 PM.png">
